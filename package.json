@@ -1,0 +1,22 @@
+{
+  "name": "beastly-analytics",
+  "version": "1.0.0",
+  "description": "Beastly code for building big data analisys on some metrics.",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/probstit/beastly-analytics.git"
+  },
+  "keywords": [
+    "beastly"
+  ],
+  "author": "PRO BST IT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/probstit/beastly-analytics/issues"
+  },
+  "homepage": "https://github.com/probstit/beastly-analytics#readme"
+}
